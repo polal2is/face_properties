@@ -1,0 +1,3 @@
+deepface
+jupyter
+voila
